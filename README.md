@@ -1,0 +1,1 @@
+Validate CRUD and auth for Contact List APIs (Contacts/Users) via structured testing aligned with Scrum. Ensure endpoints handle valid/invalid inputs correctly, manage errors gracefully, maintain data integrity, and meet basic security standards.
